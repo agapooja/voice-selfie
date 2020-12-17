@@ -6,7 +6,7 @@
 {
     width:360px;
     height: 250px;
-    border:1px solid grey;
+    border:5px solid rgb(217, 240, 11);
 }
 #logo_img
 {
@@ -16,4 +16,7 @@
 #textbox
 {
     width: 300px;
+}
+body {
+    background-color: coral;
 }
